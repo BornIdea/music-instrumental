@@ -1,3 +1,0 @@
-implement is like this.
-
-var myRandomDiffElement = myArray.randomDiffElement(lastRandomElement)
