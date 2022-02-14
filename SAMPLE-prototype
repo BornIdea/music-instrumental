@@ -1,6 +1,0 @@
-function getArrayRandomElement (arr) {
-  if (arr && arr.length) {
-    return arr[Math.floor(Math.random() * arr.length)];
-  }
-  // The undefined will be returned if the empty array was passed
-}
