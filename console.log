@@ -1,6 +1,0 @@
-Here is sample html code rondom choose instrumental for constant with "name" when u click on bottom "LUCKY" u get one rondom music instrumental which you can use for your own music. 
-
-const instrumental = ["name1", "name2", "name3", "name4", "name5", "name6", "name7"];
-
-const random = Math.floor(Math.random() * instrumental.length);
-console.log(random, instrumental[random]);
